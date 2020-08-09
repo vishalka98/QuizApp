@@ -1,16 +1,16 @@
 const qBank = [
   {
     question:
-      "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-    answers: ["Richard Branson", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Richard Branson",
+      "Which crop is sown on the largest area in India? ",
+    answers: ["Rice", "Wheat", "Sugarcane", "maize"],
+    correct: "Rice",
     questionId: "099099"
   },
   {
     question:
-      'Where is the train station "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
-    answers: ["Wales", "Moldova", "Czech Republic", "Denmark"],
-    correct: "Wales",
+      'Indian batsman who hits 6 sixes in a over?',
+    answers: ["M.S. Dhoni", "Yuvraj Singh", "Suresh Raina", "Rohit Sharma"],
+    correct: "Yuvraj singh",
     questionId: "183452"
   },
   {
@@ -334,14 +334,14 @@ const qBank = [
     questionId: "4442286"
   },
   {
-    question: "What is Tasmania?",
+    question: "What is Capital of india?",
     answers: [
-      "An Australian State",
-      "A flavor of Ben and Jerry's ice-cream",
-      "A Psychological Disorder",
-      "The Name of a Warner Brothers Cartoon Character"
+      "Mumbai",
+      "New Delhi",
+      "Gujrat",
+      "Uttar Pradeh"
     ],
-    correct: "An Australian State",
+    correct: "New delhi",
     questionId: "4564430"
   },
   {
